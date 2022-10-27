@@ -1,0 +1,55 @@
+
+body{
+  background: rgba(252,252,252,1.0);
+  color: #2B2B2B;
+  font-family: "Abel", sans-serif;
+  font-size: 20px;
+}
+
+/* @font-face {
+	font-family: FontAwesome;
+	src: url(http://netdna.bootstrapcdn.com/font-awesome/4.1.0/fonts/fontawesome-webfont.eot?v=4.1.0),
+		url (http://netdna.bootstrapcdn.com/font-awesome/4.1.0/fonts/fontawesome-webfont.woff?v=4.1.0),
+		url (http://netdna.bootstrapcdn.com/font-awesome/4.1.0/fonts/fontawesome-webfont.ttf?v=4.1.0),
+		url (http://netdna.bootstrapcdn.com/font-awesome/4.1.0/fonts/fontawesome-webfont.svg?v=4.1.0);
+} */
+
+
+
+#logo:before{
+  font-family:'FontAwesome';
+  content:"\f005";
+  font-size: 50px;
+  display: block;
+  
+}
+
+
+h4{
+  font-family: 'Gill Sans MT';
+  font-weight: bold;
+  text-transform: uppercase;
+  margin: 0px;
+  padding: 0px;
+  color: #7;
+  text-align: center;
+}
+
+
+#title h1{
+  line-height:150px;
+  width: 1000px;
+  font-size: 10em;
+}
+
+
+span{
+  -webkit-text-stroke-color:#000000;
+  -webkit-text-stroke-width: 2px;
+  background-color: none;
+}
+
+div {
+  text-align: justify;
+  text-justify: inter-word;
+}

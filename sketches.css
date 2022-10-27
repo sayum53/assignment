@@ -1,0 +1,18 @@
+body{
+  background-image: url("https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL211bHRpZmFjdG9yLWF1dGhlbnRpY2F0aW9uLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTUwfX19");
+  font-family: "Abel", sans-serif;
+  font-size: 20px;
+  color: #000000;
+  background-color: yellow;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  background-size: cover;
+}
+
+
+div {
+  text-align: justify;
+  text-justify: inter-word;
+}
